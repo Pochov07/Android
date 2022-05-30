@@ -7,4 +7,4 @@ Soy Karina
 
 Buenas , buenas  soy Jeraldin
 
-Buenas, soy Vanessa tu mamasota
+Buenas, soy Vanessa la loca
