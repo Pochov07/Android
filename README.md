@@ -1,7 +1,7 @@
 # Android
 Proyecto Android
 
-Mi primer repositorio
+Mi primer repositorio soy Alfonso
 Soy Karina
 
 Buenas , buenas  soy Jeraldin
