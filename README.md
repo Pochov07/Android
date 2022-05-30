@@ -1,7 +1,9 @@
 # Android
 Proyecto Android
 
-Mi primer repositorio soy Alfonso
+Mi primer repositorio 
+
+soy Alfonso
 
 Soy Karina
 
